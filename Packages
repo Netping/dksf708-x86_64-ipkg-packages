@@ -1,0 +1,12 @@
+Package: np-gpio-management
+Version: 1.0.0-1
+Depends: libc, libssp, librt, libpthread
+License: GPL-2.0
+Section: netping
+Architecture: x86_64
+Installed-Size: 1644
+Filename: np-gpio-management_1.0.0_x86_64.ipk
+Size: 2420
+SHA256sum: 9e713460880bec2791518ca79f3e3ff2bd4bfb52f6013dd6241594fc2aa934e2
+Description: Package of GPIO initialization scripts
+
